@@ -34,5 +34,5 @@ Our project references the codes in the following repos.
 
 - [fscil](https://github.com/xyutao/fscil)
 - [DeepEMD](https://github.com/icoz69/DeepEMD)
-- [FEAT](https://github.com/Sha-Lab/FEAT)
+- [CEC](https://github.com/icoz69/CEC-CVPR2021)
 - [RFS](https://github.com/WangYueFt/rfs)
